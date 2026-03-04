@@ -9,7 +9,7 @@
   "updateType": "mandatory",
 
   "assets": {
-    "zip": "https://github.com/connectsoft-apps/shopcash-updates/releases/download/v12.0.26.0/bin.zip"
+    "zip": "https://github.com/connectsoft-apps/shopcash-updates/releases/download/v12.0.25.0/bin.zip"
   },
 
   "timeoutSeconds": 5
