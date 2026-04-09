@@ -3,13 +3,13 @@
 
   "major": 12,
   "minor": 0,
-  "patch": 32,
+  "patch": 34,
   "build": 0,
 
   "updateType": "mandatory",
 
   "assets": {
-    "zip": "https://github.com/connectsoft-apps/shopcash-updates/releases/download/v12.0.32.0/bin.zip"
+    "zip": "https://github.com/connectsoft-apps/shopcash-updates/releases/download/v12.0.34.0/bin.zip"
   },
 
   "timeoutSeconds": 5
