@@ -1,15 +1,15 @@
 {
-  "version": "12.1.7.0",
+  "version": "12.1.13.1",
 
   "major": 12,
   "minor": 1,
-  "patch": 7,
-  "build": 0,
+  "patch": 13,
+  "build": .,
 
   "updateType": "mandatory",
 
   "assets": {
-    "zip": "https://github.com/connectsoft-apps/shopcash-updates/releases/download/v12.1.7.0/bin.zip"
+    "zip": "https://github.com/connectsoft-apps/shopcash-updates/releases/download/v12.1.13.1/bin.zip"
   },
 
   "timeoutSeconds": 5
