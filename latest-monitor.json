@@ -1,7 +1,7 @@
 {
   "version": "4.0.4.0",
   "assets": {
-    "zip": "https://github.com/connectsoft-apps/shopcash-updates/releases/download/v1.2.3.0/monitor.zip"
+    "zip": "https://github.com/connectsoft-apps/shopcash-updates/releases/download/v12.1.13.1/bin.zip
   },
   "timeoutSeconds": 5
 }
