@@ -1,10 +1,5 @@
 {
-  "version": "3.0.3.0",
-  "major": 3,
-  "minor": 0,
-  "patch": 3,
-  "build": 0,
-  "updateType": "mandatory",
+  "version": "4.0.3.0",
   "assets": {
     "zip": "https://github.com/connectsoft-apps/shopcash-updates/releases/download/v1.2.3.0/monitor.zip"
   },
