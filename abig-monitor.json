@@ -1,1 +1,7 @@
-
+{
+  "version": "4.0.0.0",
+  "assets": {
+    "zip": "https://github.com/connectsoft-apps/shopcash-updates/releases/download/monitor-abig-4.0.0.0/monitor.zip"
+  },
+  "timeoutSeconds": 5
+}
