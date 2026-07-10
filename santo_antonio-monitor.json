@@ -1,1 +1,8 @@
+{
+  "version": "4.0.0.0",
+  "assets": {
+    "zip": "https://github.com/connectsoft-apps/shopcash-updates/releases/download/monitor-santo_antonio-4.0.0.0/monitor.zip"
+  },
+  "timeoutSeconds": 5
+}
 
